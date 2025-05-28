@@ -8,5 +8,11 @@ except FileNotFoundError:
 finally:
    print("Continue with this code")
 
+OUTPUT
+PS C:\Users\SANIYA\OneDrive\Desktop\dodothecoder> & "C:/Program Files/Python313/python.exe" c:/Users/SANIYA/OneDrive/Desktop/dodothecoder/4task1.py
+hello
+Welcome to python programming
+Continue with this code
+
 
    
